@@ -13,12 +13,17 @@ I'm using a SparkFun.com PurpleTooth
 Jamboree BC127 Development Board. I've updated it to 
 the newest firmware, Melody 6.0.48, and configured it
 to support multiple connections for audio and phone.
-the Support -> Tools section of their site also offers
+The Support -> Tools section of their site has the 
+firmware update tools and also offers
 a tool to activate APTX and CVC codecs for testing
 for free. I will include my running configuration as
 a text file in this package.
 
 https://www.sparkfun.com/products/11924
+
+Note that I did not use the BC127 Library that is provided.
+It was written for an old firmware version and does not
+really support the features needed for this task.
 
 Requires https://github.com/NicoHood/HID
 
