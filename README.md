@@ -35,7 +35,7 @@ these values will change.
 Vol Up 47-49
 Vol Down 55-57
 Seek Up 75-77
-Seed Down 63-65
+Seek Down 63-65
 Source Up 167-169
 Source Down 282-283
 Talk 92-94
